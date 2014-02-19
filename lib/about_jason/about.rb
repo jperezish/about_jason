@@ -1,7 +1,8 @@
 class Jason
-  def self.about
-    puts "About Jason"
-    puts "----------------------"
-    puts "My name is Jason and I like bacon."
+  def self.title
+    "About Jason"
+  end
+  def self.subject
+    "My name is Jason and I like bacon."
   end
 end
